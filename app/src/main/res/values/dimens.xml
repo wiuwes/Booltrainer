@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_weight">62dp</dimen>
+    <dimen name="btn_height">66dp</dimen>
+
+    <dimen name="KeyBoardHeight">234dp</dimen>
+
+    <dimen name="null_length">0dp</dimen>
+</resources>
